@@ -2,7 +2,7 @@
 
 > Full Stack Reviews Module that uses stored reviews in a mongodb db to render to DOM.
 
-![Light Mode](https://imgur.com/QEM5RD7)
+![Screen Shot 2020-07-27 at 8 11 13 PM](https://user-images.githubusercontent.com/26586202/88615626-3180c700-d047-11ea-8ee9-46f4733aeae2.png)
 
 
 ## Development
