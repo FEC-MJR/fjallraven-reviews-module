@@ -2,35 +2,9 @@
 
 > Full Stack Reviews Module that uses stored reviews in a mongodb db to render to DOM.
 
-## Related Projects
-
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
-
-## Requirements
-
-- Good Vibes
-
 ## Development
 
-### Installing Dependencies
+Worked in a team with 3 engineers, each tasked with a seperate module of the product page. We each built our own local MongoDB to store data to populat our modules. Once our modules were complete we combined them using a proxy server also but with Express and Node.
 
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
+Project was built as the frontend capstone at Hack Reactor.
 
