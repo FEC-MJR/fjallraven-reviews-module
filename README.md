@@ -8,3 +8,8 @@ Worked in a team with 3 engineers, each tasked with a seperate module of the pro
 
 Project was built as the frontend capstone at Hack Reactor.
 
+## Technologies
+
+- ReactJS, Express, Node, MongoDB
+- Jest, Cypress, Mocha, Chai
+
